@@ -12,7 +12,7 @@ Verified with Quanser QUBE (www.quanser.com)
 and
 Tested with Arduino software (IDE) 1.8.9 (arduino.org)
 
-HARDWARE SPECIFICATION 
+HARDWARE & SOFTWARE REQUIREMENTS 
 ======================
 Hardware used for this project is as follows:  
  
@@ -25,4 +25,3 @@ Software used in this project:
  
 • Arduino IDE     
 • Quanser interactive labs 
-
