@@ -24,4 +24,3 @@ Hardware used for this project is as follows:
 Software used in this project: 
  
 • Arduino IDE     
-• Quanser interactive labs 
